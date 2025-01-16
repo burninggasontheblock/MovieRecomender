@@ -1,4 +1,4 @@
-# MovieRecomender
+# MovieRecommender
 
 MovieReck is a movie recommendation system built using collaborative filtering techniques. It leverages the MovieLens dataset to provide personalized movie recommendations based on user input.
 
