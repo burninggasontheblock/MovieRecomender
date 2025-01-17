@@ -24,9 +24,6 @@ You can install the required packages using pip:
 ```bash
 pip install Flask pandas numpy scikit-learn surprise
 
-Here's a README.md file created for your moviereck.py project:
-markdownCopy code# MovieReck
-
 MovieReck is a movie recommendation system built using collaborative filtering techniques. It leverages the MovieLens dataset to provide personalized movie recommendations based on user input.
 
 ## Features
